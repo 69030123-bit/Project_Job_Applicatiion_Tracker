@@ -1,0 +1,3 @@
+# โปรแกรมนี้เป็น Desktop GUI ที่พัฒนาด้วย Python Standard Library 100%
+# ประกอบด้วย: tkinter, sqlite3, csv, datetime, webbrowser
+# ไม่จำเป็นต้องติดตั้งโมดูลภายนอกเพิ่มเติม สามารถรัน python app.py ได้ทันที!
